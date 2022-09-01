@@ -1,2 +1,3 @@
 # odin-recipes
 Foundations HTML project : Recipes
+A practice project of dessert recipes...
